@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <fname>Paweł</fname>
+    <lname>Pawelec</lname>
+    <gender>M</gender>
+    <date_of_birth>25-kwi-1980</date_of_birth>
+    <personal_id>39327605</personal_id>
+    <id_card_number>P204520</id_card_number>
+    <city>Gdansk</city>
+  </row>
+  <row>
+    <fname>Grzegorz</fname>
+    <lname>Grzech</lname>
+    <gender>M</gender>
+    <date_of_birth>6-sty-1982</date_of_birth>
+    <personal_id>66193253</personal_id>
+    <id_card_number>G536040</id_card_number>
+    <city>Wroclaw</city>
+  </row>
+  <row>
+    <fname>Kasia</fname>
+    <lname>Kasińska</lname>
+    <gender>F</gender>
+    <date_of_birth>16-lut-1985</date_of_birth>
+    <personal_id>39440385</personal_id>
+    <id_card_number>K251832</id_card_number>
+    <city>Cracow</city>
+  </row>
+</root>
